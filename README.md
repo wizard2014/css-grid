@@ -1,2 +1,2 @@
-# css-grid
+# CSS Grid
 CSS Grid samples
